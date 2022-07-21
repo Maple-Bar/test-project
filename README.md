@@ -2,7 +2,7 @@
 
 ### Tomoko Tsugane
 
-#### I was born in Kofu, Japan.
+#### I was born in Yamanashi, Japan. It is a wine country. 
 #### I enjoy riding horses, cooking, traveling and seeing films.
 #### My next trip is Bozeman, MT for family reunion. It will start on August 3, 2022.
 #### The fall trip will be Japan. It will start on October 13, 2022. 
@@ -18,7 +18,7 @@
 
 ---
 
-### My favorite movies are:
+### My favorite movies:
 
 - Tokyo Story by Yasujiro Ozu
 - Office Space by Mike Judge
@@ -28,8 +28,8 @@
 - God Father by Francis Coppola
 - Plein soleil by René Clément
 
+I like French New Wave and the films by Ozu and Kurosawa.
 I would like to know abour your favorite films. 
-I also like French New Wave and the films by Ozu and Kurosawa.
 
 ---
 
@@ -45,6 +45,8 @@ I also like French New Wave and the films by Ozu and Kurosawa.
 | Singapore | Austria | ------ | ----- | Oman |
 | China | Germany | ------ | ----- | ----- |
 | Indonesia | Czech Republic | ----- | ----- | ----- |
+| Korea | United Kingdom | ----- | ----- | ----- |
+| Mongolia | Iceland | ----- | ----- | ----- |
 
 Where do you like to visit for your next vacation? 
 What do you keep in mind when you choose your destination?
