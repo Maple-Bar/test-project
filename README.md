@@ -30,15 +30,16 @@ Use this file to test TMS compatibility with GitHub.
 
 ### Countries I visited: 
 
-| Asia | Europe | Americas | Africa |
-| ----------- | ----------- | ----------- | ----------- |
-| Japan | France | Canada | Morocco | Middle East |
+| Asia | Europe | Americas | Africa | Middle East |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Japan | France | Canada | Morocco | Labanon |
 | Thailand | Italy | Mexico | South Africa | UAE |
 | Vietnam | Spain | Costa Rica | Kenya | Qater |
-| Cambidia | Norway | Brazil | Egypt | Iran |
+| Cambodia | Norway | Brazil | Egypt | Iran |
 | Laos | Sweden | Argentina | Tanzania | Israel |
-| Singapore | Austria | ------ | Tanzania | Israel |
-
+| Singapore | Austria | ------ | ----- | Oman |
+| China | Germany | ------ | ----- | ----- |
+| Indonesia | Czech Republic | ----- | ----- | ----- |
 
 ![Village in Norway](https://scontent-sea1-1.xx.fbcdn.net/v/t1.6435-9/68543886_10157705280239916_3227386744320032768_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=l1jUFB4wjV0AX_bEJbZ&tn=UbFy1T7m7IVFCrKM&_nc_ht=scontent-sea1-1.xx&oh=00_AT-z8uWJoDUpe90MAWe8Io14c8k-6u8wDfdPXeMYwx4EQw&oe=6300D31A)
 
