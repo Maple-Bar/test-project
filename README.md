@@ -6,29 +6,27 @@ My first project
 ### H3
 
 # Tomoko Tsugane
-# Born in Kofu, Japan
-# Enjoy riding horses, cooking, traveling
-
-
-
-**bold text**
-**Japanese food"
-**Middle Eastern food"
-
-*italicized text*
-*Italian food*
-
+## I was born in Kofu, Japan.
+### I enjoy riding horses, cooking, traveling and seeing movies.
+### My next trip is Bozeman, MT for family reunion, starting early Augurst.
+### The fall trip will be Japan.
 
 > blockquote
 
+## My favorite food to cook are:
 
-1. First item
-2. Second item
-3. Third item
 
-- First item
-- Second item
-- Third item
+1. Japanese
+2. Middle eastern
+3. Indian
+
+## My favorite coutries to visit are:
+
+- Japan
+- Spain
+- France
+- Austria
+- Norway/Sweden
 
 ---
 
@@ -46,6 +44,13 @@ My first project
 | ----------- | ----------- | ----------- | ----------- |
 | Subheader | Subheader | Subheader | Subheader |
 | Subheader | Subheader | Subheader | Subheader |
+| Subheader | Subheader | Subheader | Subheader |
+| Subheader | Subheader | Subheader | Subheader |
 
 
-
+| Asia | Europe | Americas | Africa |
+| ----------- | ----------- | ----------- | ----------- |
+| Subheader | Subheader | Subheader | Subheader |
+| Subheader | Subheader | Subheader | Subheader |
+| Subheader | Subheader | Subheader | Subheader |
+| Subheader | Subheader | Subheader | Subheader |
