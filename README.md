@@ -1,7 +1,7 @@
 <notlocalize> Use this file to test TMS compatibility with GitHub. </notlocalize> 
 
 ### Tomoko Tsugane
-I was born in kofu, Japan.
+I was born in kofu, Japan. ####
 #### I was born in Kofu, Japan.
 #### I enjoy riding horses, cooking, traveling and seeing films.
 #### My next trip is Bozeman, MT for family reunion. It will start on August 3, 2022.
