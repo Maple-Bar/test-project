@@ -6,21 +6,21 @@ My first project
 ### H3
 
 # Tomoko Tsugane
-## I was born in Kofu, Japan.
+### I was born in Kofu, Japan.
 ### I enjoy riding horses, cooking, traveling and seeing movies.
 ### My next trip is Bozeman, MT for family reunion, starting early Augurst.
 ### The fall trip will be Japan.
 
 > blockquote
 
-## My favorite food to cook are:
+### My favorite food to cook are:
 
 
 1. Japanese
 2. Middle eastern
 3. Indian
 
-## My favorite coutries to visit are:
+### My favorite coutries to visit are:
 
 - Japan
 - Spain
@@ -32,7 +32,7 @@ My first project
 
 [title](https://www.microsoft.com)
 
-![alt text](https://www.google.com/search?q=horse&rlz=1C1FHFK_enUS984US984&tbm=isch&source=iu&ictx=1&vet=1&fir=bc1iahNmLHwxvM%252Cm8aXv4hmLEepWM%252C_%253BfFJh1bSXWdTxxM%252CKUJdGU-u9_PNBM%252C_%253Babtvw9KsN5riTM%252Cbig8v_iw2dhy_M%252C_%253BYpAWrgq4VfcqcM%252CPN6Ccc2FNH5GVM%252C_%253BuVCtbYgU9xxqNM%252CMtRlVehyC6i1WM%252C_%253B4HS6ZBEx6iqgCM%252CbF1JE9ozxg44cM%252C_%253BDTJf4WdyG2svyM%252Cbig8v_iw2dhy_M%252C_%253BcbHY1Jw_sGqEMM%252CRkvGcrcI2lvsaM%252C_%253BL1evW4zrxlDLtM%252CsqunOA4FhxydiM%252C_%253BpFoA_CVXY6TjVM%252Cajq-1ymn7j4SdM%252C_%253BzstGUdTszxqSbM%252CKWxDh3ZttDCptM%252C_%253B5cYJa2D1n3QSLM%252CsDHY3LFdlvNOQM%252C_&usg=AI4_-kSs8pxP4qcDpOOTPmckkHrIkFFXBw&sa=X&ved=2ahUKEwjq9fym0Yr5AhUkIzQIHTSwC-0Q9QF6BAgaEAE#imgrc=abtvw9KsN5riTM)
+![alt text](https://scontent-sea1-1.xx.fbcdn.net/v/t1.6435-9/68543886_10157705280239916_3227386744320032768_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=l1jUFB4wjV0AX_bEJbZ&tn=UbFy1T7m7IVFCrKM&_nc_ht=scontent-sea1-1.xx&oh=00_AT-z8uWJoDUpe90MAWe8Io14c8k-6u8wDfdPXeMYwx4EQw&oe=6300D31A)
 
 | Syntax | Description |
 | ----------- | ----------- |
@@ -50,7 +50,8 @@ My first project
 
 | Asia | Europe | Americas | Africa |
 | ----------- | ----------- | ----------- | ----------- |
-| Subheader | Subheader | Subheader | Subheader |
-| Subheader | Subheader | Subheader | Subheader |
-| Subheader | Subheader | Subheader | Subheader |
-| Subheader | Subheader | Subheader | Subheader |
+| Japan | France | Canada | Morocco | Middle East |
+| Thailand | Italy | Mexico | South Africa | UAE |
+| Vietnam | Spain | Costa Rica | Kenya | Qater |
+| Cambidia | Norway | Brazil | Egypt | Iran |
+| Laos | Sweden | Argentina | Tanzania | Israel |
