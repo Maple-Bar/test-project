@@ -41,9 +41,9 @@ My first project
 | Header | Title |
 | Paragraph | Text |
 
-| Category | Description |
+| Name | Age |
 | ----------- | ----------- |
-| Header | Title |
+| Job title | Job description |
 | Paragraph | Text |
 
 
