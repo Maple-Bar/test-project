@@ -42,13 +42,10 @@ My first project
 | Paragraph | Text |
 
 
-| Syntax | Description |
-| Header | Title |
-| Paragraph | Text |
+| Header | Header | Header | Header |
+| ----------- | ----------- | ----------- | ----------- |
+| Subheader | Subheader | Subheader | Subheader |
+| Subheader | Subheader | Subheader | Subheader |
 
-
-| Name | ---------- |
-| Job title | Job description |
-| Paragraph | Text |
 
 
