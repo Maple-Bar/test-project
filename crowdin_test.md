@@ -29,7 +29,7 @@
 - Plein soleil by René Clément
 
 I like French New Wave and the films by Ozu and Kurosawa.
-I would like to know abour your favorite films. 
+I would like to know about your favorite films. 
 
 ---
 
