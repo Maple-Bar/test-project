@@ -27,6 +27,8 @@
 - Gone with the Wind by Victor Fleming
 - God Father by Francis Coppola
 - Plein soleil by René Clément
+- The 400 Blows by François Truffaut
+- Le Samouraï by Jean-Pierre Melville
 
 I like French New Wave and the films by Ozu and Kurosawa.
 I would like to know about your favorite films. 
