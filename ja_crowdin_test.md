@@ -30,7 +30,7 @@
 - フランソワ・トリュフォー 『大人は判ってくれない』
 - ジャン＝ピエール・メルヴィル『サムライ』
 
-I like French New Wave and the films by Ozu and Kurosawa. I would like to know about your favorite films.
+フランスのニューウェーブや、小津や黒澤映画が好きです。 あなたの好きな映画はなんですか？
 
 ---
 
