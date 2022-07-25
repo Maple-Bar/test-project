@@ -27,6 +27,8 @@
 - ヴィクター・フレミング『風と共に去りぬ』
 - フランシス・コッポラ『ゴッドファーザー』
 - ルネ・クレメント『太陽がいっぱい』
+- The 400 Blows by François Truffaut
+- Le Samouraï by Jean-Pierre Melville
 
 フランスのニューウェーブや、小津や黒澤映画が好きです。 I would like to know about your favorite films.
 
